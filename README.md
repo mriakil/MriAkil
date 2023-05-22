@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Raisul Islam Akil</h1>
-<h3 align="center">A passionate frontend developer. Currently I'm working on some projects to develop my portfolio. Keep a look at my profile and always feel free to express your opinion on my projects. I love to learn new things.</h3>
+<h3 align="center">A passionate developer. Currently I'm working on some projects to develop my portfolio. Keep a look at my profile and always feel free to express your opinion on my projects. I love to learn new things.</h3>
 
 - 📫 How to reach me **raisul.akil@gmail.com**
 
